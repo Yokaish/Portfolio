@@ -37,20 +37,31 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.content__subtitle {
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
 .content__botton {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+
+
 }
 
 .content__link {
-    background-color: #5ce1e6;
-    width: 280px;
+    width: 378px;
     text-align: center;
+    border: 2px solid #5ce1e6;
     border-radius: 16px;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: black;
+    color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
 }
