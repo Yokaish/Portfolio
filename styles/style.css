@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@100;400&display=swap');
 
 :root {
-    --cor-background: #000000;
-    --cor-textos: #f6f6f6;
-    --cor-destaque: #22D4FD;
+    --cor-background: #050404;
+    --cor-textos: #96897D;
+    --cor-destaque: #CFBFB8;
     --cor-hover: #272727;
 
     --fonte-titulos: 'Krona One', sans-serif;
@@ -105,7 +105,7 @@ body {
 .footer {
     padding: 24px;
     color: var(--cor-background);
-    background-color: var(--cor-destaque);
+    background-color: var(--cor-textos);
     display: flex;
     justify-content: center;
     font-size: 24px;
@@ -113,3 +113,13 @@ body {
     font-weight: 400;
 }
 
+.kauaimage {
+    height: 720px;
+    width: 720px;
+    border-radius: 16px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
