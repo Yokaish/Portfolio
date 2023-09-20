@@ -31,7 +31,7 @@ body {
 
 .header__menu {
     display: flex;
-    gap: 70px;
+    gap: 80px;
 }
 
 .header__link {
