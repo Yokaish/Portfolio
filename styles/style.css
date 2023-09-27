@@ -129,24 +129,19 @@ body {
 @media (max-width:1200px) {
     
     .header {
-        padding: 15%;
+        padding: 10%;
     }
 
     .header__menu {
         justify-content: center;
-        gap: 10%;
     }
     
     .content {
-        padding: 10%;
+        padding: 5%;
         flex-direction: column-reverse;
     }
 
     .content__ap {
         width: auto;
-    }
-
-    .content__botton {
-        gap: 20px;
     }
 }
