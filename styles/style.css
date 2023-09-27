@@ -143,4 +143,8 @@ body {
     .content__ap {
         width: auto;
     }
+
+    content__link {
+        width: 80%;
+    }
 }
