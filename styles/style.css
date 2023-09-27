@@ -134,6 +134,7 @@ body {
 
     .header__menu {
         justify-content: center;
+        gap: 10%;
     }
     
     .content {
