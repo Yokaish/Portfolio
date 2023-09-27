@@ -137,11 +137,15 @@ body {
     }
     
     .content {
-        padding: 5%;
+        padding: 10%;
         flex-direction: column-reverse;
     }
 
     .content__ap {
         width: auto;
+    }
+
+    .content__botton {
+        gap: 20px;
     }
 }
