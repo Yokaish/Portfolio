@@ -87,7 +87,7 @@ body {
     display: flex;
     justify-content:center;
     gap: 16px;
-    width: 50%;
+    width: 60%;
     text-align: center;
     border: 2px solid var(--cor-destaque);
     border-radius: 16px;
